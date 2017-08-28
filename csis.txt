@@ -1,0 +1,90 @@
+Decimal Number:
+65535
+Binary Number:
+0000 0000 0000 0000 1111 1111 1111 1111 
+
+Decimal Number:
+1000000
+Binary Number:
+0000 0000 0000 1111 0100 0010 0100 0000 
+
+Decimal Number:
+1234567890
+Binary Number:
+0100 1001 1001 0110 0000 0010 1101 0010 
+
+Decimal Number:
+65535
+Hexadecimal Number:
+FFFF
+
+Decimal Number:
+1000000
+Hexadecimal Number:
+F4240
+
+Decimal Number:
+1234567890
+Hexadecimal Number:
+499602D2
+
+Binary Number:
+0110 0101 1100 1101 1010 1110 0000 0101
+Decimal Number:
+1707978245
+
+Binary Number:
+0111 1111 1111 1111 0010 0001 1101 0011
+Decimal Number:
+2147426771
+
+Binary Number:
+0000 0000 0000 0000 0000 0000 0000 0010
+Decimal Number:
+2
+
+Binary Number: 
+0110 0101 1100 1101 1010 1110 0000 0101
+Hexadecimal Number: 
+65CDAE05
+
+Binary Number: 
+0111 1111 1111 1111 0010 0001 1101 0011
+Hexadecimal Number: 
+7FFF21D3
+
+Binary Number: 
+0010 1011 1010 1101 0111 0110 0011 1010
+Hexadecimal Number: 
+2BAD763A
+
+Hexadecimal Number: 
+12345678
+Decimal Number:
+305419896
+
+Hexadecimal Number: 
+2A3DF8A7
+Decimal Number:
+708704423
+
+Hexadecimal Number: 
+00FF00FF
+Decimal Number:
+16711935
+
+Hexadecimal Number: 
+12345678
+Binary Number:
+0001 0010 0011 0100 0101 0110 0111 1000
+
+Hexadecimal Number: 
+2A3DF8A7
+Binary Number:
+0010 1010 0011 1101 1111 1000 1010 0111
+
+Hexadecimal Number: 
+00FF00FF
+Binary Number:
+0000 0000 1111 1111 0000 0000 1111 1111
+
